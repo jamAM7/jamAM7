@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is James, and I'm a software engineering student at UTS with an interest in mobile and web development!
+
 - 🔭 I’m currently working on a timing app for a local running club.
 - 🌱 I’m currently learning Swift
 - 📫 How to reach me: jamesaustinmitchell999@gmail.com
