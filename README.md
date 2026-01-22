@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a timing app for a local running club.
+- 🌱 I’m currently learning Swift
+- 📫 How to reach me: jamesaustinmitchell999@gmail.com
+
 <!--
 **jamAM7/jamAM7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
