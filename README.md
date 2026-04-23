@@ -1,22 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-My name is James, and I'm a software engineering student at UTS with an interest in mobile and web development!
+My name is James, and I'm a final-year Software Engineering & Finance student at UTS.
 
-- 🔭 I’m currently working on a timing app for a local running club.
-- 🌱 I’m currently learning Swift
-- 📫 How to reach me: jamesaustinmitchell999@gmail.com
+## What I'm working on
 
-<!--
-**jamAM7/jamAM7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🗺️ **[py-spatialservices-starter](https://github.com/jamAM7/py-spatialservices-starter)** — A Python REST API service that queries NSW Spatial Services to return cadastral lots, survey plans and survey marks. Built for a surveying firm as part of my engineering work placement.
+- 🌐 **[capstoneproject](https://github.com/jamAM7/capstoneproject)** — A React/TypeScript web platform for visualising and interacting with data structures and algorithms.
+- 🤖 Currently working on an object detection ML project using YOLOv8 for lab occupancy monitoring.
 
-Here are some ideas to get you started:
+## Tech
+Python · FastAPI · TypeScript · React · SQL · Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+📧 jamesaustinmitchell999@gmail.com  
+💼 [linkedin.com/in/james-mitchell-5961292a5](https://linkedin.com/in/james-mitchell-5961292a5)
